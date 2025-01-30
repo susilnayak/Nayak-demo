@@ -1,4 +1,4 @@
 # Nayak-demo
-this is 2nd Git project.
+this is my 2nd Git project.
 <br>
 Author-Susil Nayak
